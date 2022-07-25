@@ -1,4 +1,4 @@
-public class Jit {
+public class MyOwnException {
 
     public static void main(String args[]) {
         String word = " ";
